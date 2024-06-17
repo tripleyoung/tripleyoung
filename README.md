@@ -1,9 +1,8 @@
 
 <h2 align="center">
-    <samp>&gt; Hello 🖐️, I am
+    <samp>&gt; Hello , I am
     <b><a target="_blank" href="https://alsiam.com">yeo won</a></b>
   </samp>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 
