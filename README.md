@@ -45,7 +45,7 @@
 ## Projects
 ### Project 1: [절도범 행동인식](#)
 **Description:** PoseC3D(skeleton 기반 행동인식)와 HR-pro(Temporal Actoin localization) ,BN-WVAD(Video Anomaly Detection)와 플러터를 활용한 절도 행위 인식 앱 프로젝트
-[Download the presentation](https://github.com/tripleyoung/tripleyoung/아이펠톤_최종발표자료_RealCvongE.pptx.pdf)
+[Download the presentation](./아이펠톤_최종발표자료_RealCvongE.pptx.pdf)
 ### Project 2: [자바](#)
 **Description:** Brief description of the project, what it does, and what technologies were used. Highlight key features and functionality.
 
