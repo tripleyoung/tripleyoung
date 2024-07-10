@@ -18,7 +18,9 @@
 
 <br/>
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripleyoung&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleyoung&layout=compact)
 
 ## Use To Code
 ![python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
